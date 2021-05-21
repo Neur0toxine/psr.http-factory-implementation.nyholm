@@ -10,7 +10,5 @@
         "psr",
         "http-factory-implementation"
     ],
-    "require": {
-        "nyholm/psr7": "*"
-    }
+    "require": []
 }
