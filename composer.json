@@ -1,0 +1,16 @@
+{
+    "name": "neur0toxine/psr.http-factory-implementation.nyholm",
+    "description": "Satisfy \"psr/http-factory-implementation\" with packages provided by user, or fallback to \"nyholm\".",
+    "type": "metapackage",
+    "license": "MIT",
+    "keywords": [
+        "composer",
+        "fallback",
+        "default",
+        "psr",
+        "http-factory-implementation"
+    ],
+    "require": {
+        "nyholm/psr7": "*"
+    }
+}
